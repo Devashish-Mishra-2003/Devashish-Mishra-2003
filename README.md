@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Web Applications & AI/ML Based projects**
 
-- 🥇 ⚡ Fun fact I love to make content and also to code creative stuffs!! 
+- 🥇 ⚡ Fun fact I love to eat Paneer!! 
 
 - 👨‍💻 All of my projects are available at [My Repos](https://github.com/Devashish-Mishra-2003?tab=repositories)
 
